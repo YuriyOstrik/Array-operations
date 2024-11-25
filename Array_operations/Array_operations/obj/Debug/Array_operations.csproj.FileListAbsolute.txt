@@ -1,0 +1,7 @@
+C:\Users\Юрий Острик\source\repos\Array_operations\Array_operations\bin\Debug\Array_operations.exe.config
+C:\Users\Юрий Острик\source\repos\Array_operations\Array_operations\bin\Debug\Array_operations.exe
+C:\Users\Юрий Острик\source\repos\Array_operations\Array_operations\bin\Debug\Array_operations.pdb
+C:\Users\Юрий Острик\source\repos\Array_operations\Array_operations\obj\Debug\Array_operations.csproj.AssemblyReference.cache
+C:\Users\Юрий Острик\source\repos\Array_operations\Array_operations\obj\Debug\Array_operations.csproj.CoreCompileInputs.cache
+C:\Users\Юрий Острик\source\repos\Array_operations\Array_operations\obj\Debug\Array_operations.exe
+C:\Users\Юрий Острик\source\repos\Array_operations\Array_operations\obj\Debug\Array_operations.pdb
